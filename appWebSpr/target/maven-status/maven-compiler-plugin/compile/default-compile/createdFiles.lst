@@ -1,0 +1,8 @@
+br\csi\modelo\Tarefa.class
+br\csi\util\ConectaPostgres.class
+br\csi\controller\TarefaController.class
+br\csi\dao\UsuarioDAO.class
+br\csi\controller\UsuarioController.class
+br\csi\controller\PrimeiroController.class
+br\csi\dao\TarefaDAO.class
+br\csi\modelo\Usuario.class
